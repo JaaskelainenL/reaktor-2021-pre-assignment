@@ -1,0 +1,17 @@
+{
+  "name": "reaktor-pre-assignment-2021-api",
+  "version": "1.0.0",
+  "description": "An API for the junior dev assignment. Just to make things easier",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jääskeläinen L",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-cache": "^5.1.2",
+    "request": "^2.88.2"
+  }
+}
